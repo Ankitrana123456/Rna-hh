@@ -185,13 +185,9 @@ async def career_will(app: Client, message: Message):
         if "*" in raw_text:
             email, password = raw_text.split("*")
             headers = {
-                "Host": "elearn.crwilladmin.com",
                 "appver": "107",
                 "apptype": "android",
                 "cwkey": "+HwN3zs4tPU0p8BpOG5ZlXIU6MaWQmnMHXMJLLFcJ5m4kWqLXGLpsp8+2ydtILXy",
-                "content-type": "application/json; charset=UTF-8",
-                "accept-encoding": "gzip",
-                "user-agent": "okhttp/5.0.0-alpha.2"
             }
             data = {
                 "deviceType": "android",
