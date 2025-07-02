@@ -25,7 +25,7 @@ MONGO_URL = os.environ.get("")
 # -----------------------------------------------
 PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", " "))
 # -----------------------------------------------
-join = '<a href="https://t.me/+uUWWSZu6389hZGY9 ">✳️ Bᴀᴄᴋᴜᴘ</a>'
+join = '<a href="https://t.me/Lallantoop">✳️ Bᴀᴄᴋᴜᴘ</a>'
 # -----------------------------------------------
 UNSPLASH_ACCESS_KEY = 'RabDRmuXXBobanmwwbvpP5LwoG4J8ox34y5Sstz-9jk'
 # -----------------------------------------------
@@ -33,7 +33,7 @@ UNSPLASH_QUERY = 'animal baby'
 # -----------------------------------------------
 ADMIN_BOT_USERNAME = "" #without @
 
-THUMB_URL = os.environ.get("THUMB_URL", "https://graph.org/file/69356215e2506436f381b.jpg")
+THUMB_URL = os.environ.get("THUMB_URL", "https://i.ibb.co/mFv7r6H4/d997e7637c2a.jpg")
 
 
 
